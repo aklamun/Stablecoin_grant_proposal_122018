@@ -1,4 +1,4 @@
-# Grant_proposal_Lykke
+# Stablecoin_grant_proposal_122018
 Proposal: A Framework for Designing Better Stablecoins
 2018 Lykke Research Hub 1st prize grant award ([announcement](https://medium.com/lykke-research-hub/lykke-research-hub-newsletter-april-2019-722ddc1f6ed8), [call for proposals](https://research.lykke.com/lykke-research-hubs-call-for-proposals/) )
 
